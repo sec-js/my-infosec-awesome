@@ -560,6 +560,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Continuously find & fix vulnerabilities in your dependencies</td>
     </tr>
     <tr>
+        <td><a href="https://vulert.com/">vulert</a></td>
+        <td>Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/sslab-gatech/Rudra">sslab-gatech/Rudra</a></td>
         <td>Rust Memory Safety & Undefined Behavior Detection</td>
     </tr>
