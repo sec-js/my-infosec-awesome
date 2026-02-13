@@ -1534,6 +1534,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Mount AWS CloudWatch logs as a file system</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/bad-antics/rupurt">bad-antics/rupurt</a></td>
+        <td>Advanced rootkit hunter and kernel integrity monitor for Linux. Detects hidden processes, hooked syscalls, modified kernel modules, and tampered filesystem entries.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/bfuzzy/auditd-attack">bfuzzy/auditd-attack</a></td>
         <td>A Linux Auditd rule set mapped to MITRE's Attack Framework</td>
     </tr>
@@ -2234,6 +2238,14 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/0x6d69636b/windows_hardening">0x6d69636b/windows_hardening</a></td>
         <td>Windows Hardening settings and configurations</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bad-antics/nullsec-linux">bad-antics/nullsec-linux</a></td>
+        <td>Security-hardened Linux distribution built on Debian, preconfigured for penetration testing, digital forensics, and privacy-focused operations with kernel-level hardening.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bad-antics/rce-shield">bad-antics/rce-shield</a></td>
+        <td>Remote Code Execution hardening toolkit for PC gamers. Scans game launchers, anti-cheat software, mod platforms, overlays, and peripherals for RCE vulnerabilities and misconfigurations.</td>
     </tr>
     <tr>
         <td><a href="https://hub.steampipe.io/mods/turbot/azure_compliance/controls/benchmark.nist_sp_800_53_rev_5">Benchmark: NIST SP 800-53 Revision 5</a></td>
@@ -3137,6 +3149,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/arch4ngel/peasant">arch4ngel/peasant</a></td>
         <td>LinkedIn reconnaissance tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/bad-antics/baudrillard-suite">bad-antics/baudrillard-suite</a></td>
+        <td>Cross-platform OSINT and reconnaissance toolkit with modules for social media intelligence, metadata forensics, network mapping, and automated report generation.</td>
     </tr>
     <tr>
         <td><a href="http://bit.ly/bcattools">Bellingcat's Online Investigation Toolkit</a></td>
