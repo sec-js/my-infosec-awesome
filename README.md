@@ -561,7 +561,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://vulert.com/">vulert</a></td>
-        <td>Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.</td>
+        <td>Vulert secures software by detecting vulnerabilities in open-source dependencies - without accessing your code. It supports Js, PHP, Java, Python, and more.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/sslab-gatech/Rudra">sslab-gatech/Rudra</a></td>
@@ -1402,7 +1402,7 @@ This repository is created as an online bookmark for useful links, resources and
     </tr>
     <tr>
         <td><a href="https://www.splunk.com/blog/2018/05/10/boss-of-the-soc-scoring-server-questions-and-answers-and-dataset-open-sourced-and-ready-for-download.html">BOTS 1.0 Dataset</a></td>
-        <td>The BOTS 1.0 dataset records two attacks perpetrated by a fictitious hacktivist group called po1s0n1vy targeting Wayne Corp of Batman mythology. There are many comic book references in the data; from heroes and villains to “Batman’s” street addresses. Not only does the dataset have many different types of data—everything from Sysmon to Suricata—but there are even file hashes that can be found in Virustotal.com and domains/IPs to hunt for in OSINT tools like PassiveTotal and Robtex!</td>
+        <td>The BOTS 1.0 dataset records two attacks perpetrated by a fictitious hacktivist group called po1s0n1vy targeting Wayne Corp of Batman mythology. There are many comic book references in the data; from heroes and villains to “Batman’s” street addresses. Not only does the dataset have many different types of data - everything from Sysmon to Suricata - but there are even file hashes that can be found in Virustotal.com and domains/IPs to hunt for in OSINT tools like PassiveTotal and Robtex!</td>
     </tr>
     <tr>
         <td><a href="https://dataplane.org/">DataPlane.org</a></td>
@@ -3430,6 +3430,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/woj-ciech/SocialPath">woj-ciech/SocialPath</a></td>
         <td>Track users across social media platform</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a></td>
+        <td>X/Twitter data extraction platform for public post search, follower extraction, keyword monitoring, REST API, webhooks, and MCP workflows.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/yogeshojha/rengine">yogeshojha/rengine</a></td>
