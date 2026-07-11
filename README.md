@@ -532,10 +532,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
-        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/rpgeeganage/audit-node-modules-with-yara">rpgeeganage/audit-node-modules-with-yara</a></td>
         <td>Audit Node Module folder with YARA rules to identify possible malicious packages hiding in node_moudles</td>
     </tr>
@@ -975,10 +971,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
         <td>A highly visual ARM emulator</td>
-    </tr>
-    <tr>
-        <td><a href="https://githacks.org/vmp2/vmemu">vmp2/vmemu</a></td>
-        <td>VMProtect 2 Virtual Machine Handler Emulation</td>
     </tr>
     <tr>
         <td><a href="https://github.com/wader/fq">wader/fq</a></td>
@@ -1596,10 +1588,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/countercept/chainsaw">countercept/chainsaw</a></td>
         <td>Rapidly Search and Hunt through Windows Event Logs</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/CrowdStrike/automactc">CrowdStrike/automactc</a></td>
-        <td>AutoMacTC: Automated Mac Forensic Triage Collector</td>
     </tr>
     <tr>
         <td><a href="https://github.com/CrowdStrike/Forensics">CrowdStrike/Forensics</a></td>
@@ -2417,10 +2405,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/cmu-sei/cyobstract">cmu-sei/cyobstract</a></td>
         <td>A tool to extract structured cyber information from incident reports.</td>
     </tr>
-    	<tr>
-		<td><a href="https://crxcavator.io/">CRXcavator</a></td>
-		<td>CRXcavator automatically scans the entire Chrome Web Store every 3 hours and produces a quantified risk score for each Chrome Extension based on several factors.</td>
-	</tr>
     <tr>
         <td><a href="https://github.com/countercept/snake">countercept/snake</a></td>
         <td>snake - a malware storage zoo</td>
@@ -2436,10 +2420,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/D4stiny/spectre">D4stiny/spectre</a></td>
         <td>A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine.</td>
-    </tr>
-    <tr>
-        <td><a href="http://dasmalwerk.eu/">DAS MALWERK</a></td>
-        <td>DAS MALWERK - your one stop shop for fresh malware samples</td>
     </tr>
     <tr>
         <td><a href="https://github.com/DoctorWebLtd/malware-iocs">DoctorWebLtd/malware-iocs</a></td>
@@ -2815,10 +2795,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A repository of LIVE malwares for your own joy and pleasure</td>
     </tr>
     <tr>
-        <td><a href="https://beta.virusbay.io/">VirusBay</a></td>
-        <td>VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers</td>
-    </tr>
-    <tr>
         <td><a href="https://virusshare.com/">VirusShare</a></td>
         <td>VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of live malicious code</td>
     </tr>
@@ -2841,10 +2817,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://yaraify.abuse.ch/">YARAify</a></td>
         <td>YARAify is a project from abuse.ch that allows anyone to scan suspicious files such as malware samples or process dumps against a large repository of YARA rules. With YARAhub, the platform also provides a structured way for sharing YARA rules with the community.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/zerofox-oss/phishpond">zerofox-oss/phishpond</a></td>
-        <td>Because phishtank was taken.. explore phishing kits in a contained environment!</td>
     </tr>
 </table>
 
@@ -2938,10 +2910,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/nygard/class-dump">nygard/class-dump</a></td>
         <td>Generate Objective-C headers from Mach-O files</td>
-    </tr>
-    <tr>
-        <td><a href="https://beta.pithus.org/about/">Pithus</a></td>
-        <td>Pithus is a free and open-source mobile threat intelligence platform for activists, journalists, NGOs, researchers...</td>
     </tr>
     <tr>
         <td><a href="https://github.com/pxb1988/dex2jar">pxb1988/dex2jar</a></td>
@@ -3339,10 +3307,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Monitoring GitLab for sensitive data shared publicly</td>
     </tr>
     <tr>
-        <td><a href="https://psbdmp.ws/">Pastebin dump collection</a></td>
-        <td>Pastebin dump collection</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/Patrowl/PatrowlHears">Patrowl/PatrowlHears</a></td>
         <td>PatrowlHears - Vulnerability Intelligence Center / Exploits</td>
     </tr>
@@ -3697,10 +3661,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/ethereum-lists/contracts">ethereum-lists/contracts</a></td>
         <td>List of contracts from known projects (work in progress)</td>
-    </tr>
-    <tr>
-        <td><a href="https://ethtx.info/">EthTx Transaction Decoder</a></td>
-        <td>EthTx is an open source decoder of blockchain transactions that is made freely available to the Ethereum Community as a Python library in public PyPi index</td>
     </tr>
     <tr>
         <td><a href="https://github.com/enzymefinance/oyente">enzymefinance/oyente</a></td>
