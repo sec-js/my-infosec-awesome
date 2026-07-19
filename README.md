@@ -2259,6 +2259,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/elastic/PPLGuard">elastic/PPLGuard</a></td>
         <td>PPLGuard is a proof of concept tool that can mitigate two currently-unpatched Windows security flaws which pose threats to Protected Processes Light (PPL) processes, such as AntiMalware services.</td>
     </tr>
+	<tr>
+    <td><a href="https://github.com/hexorcist404/apotrope">hexorcist404/apotrope</a></td>
+    <td>Offline Windows security posture auditor with 50+ checks mapped to CIS Microsoft Windows Benchmarks. Scored HTML/JSON reports, no cloud connectivity required</td>
+</tr>
     <tr>
         <td><a href="https://linuxreviews.org/Linux_Kernel_Runtime_Guard">Linux Kernel Runtime Guard</a></td>
         <td>Linux Kernel Runtime Guard (LKRG) is a out-of-tree security module for the Linux kernel developed by Openwall. It does run-time integrity checks in order to stop known, and unknown, security vulnerabilities in the Linux kernel. It can log detected intrusion attempts or stop them by causing a kernel panic - resulting in a frozen machine or a reboot depending on how the kernel is configured.</td>
